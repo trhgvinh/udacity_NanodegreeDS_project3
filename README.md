@@ -11,3 +11,4 @@ Part II will calculate the ranking like the n top articles ordered with most int
 
 Part III will form the the user-item matrix to give the recommendations based on user-user based collaborative filtering.
 
+And the project_tests.py will be used to check the result.
